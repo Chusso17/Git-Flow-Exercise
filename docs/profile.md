@@ -3,4 +3,4 @@
 - Basic info
 - Bio
 - Interest
-- daidnfosins
+- Moderation note
